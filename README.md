@@ -1,4 +1,4 @@
-# Python-and-Cybersecurity-Shape-AI
+# Simple Weather App with Python
 
 Here i made a simple Weather app that takes your location as a input and outputs 
 temprature , wind speed, humidity and weather description in a WeatherData.txt file.
